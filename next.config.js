@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images: {
-        domains: ["undraw.co"],
-    },
+  images: {
+    domains: ["assets-global.website-files.com"],
+  },
 };
 
 module.exports = nextConfig;
